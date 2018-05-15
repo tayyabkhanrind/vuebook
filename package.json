@@ -1,0 +1,11 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "vue": "^2.5.16",
+    "vue-axios": "^2.1.1",
+    "vue-truncate-filter": "^1.1.7",
+    "vuex": "^3.0.1"
+  }
+}
